@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Prince 👋
 
 <!--
 **Prince0797/Prince0797** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
